@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Book1",
+    "year": 2020,
+    "image": "http://books.google.com/books/content?id=6KceEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "name": "Book2",
+    "year": 2023,
+    "image": "http://books.google.com/books/content?id=8E_ADAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "name": "Book3",
+    "year": 2010,
+    "image": "http://books.google.com/books/content?id=hx36iz5za54C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "name": "Book4",
+    "year": 2015,
+    "image": "http://books.google.com/books/content?id=eSQ4BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "name": "Book5",
+    "year": 2016,
+    "image": "http://books.google.com/books/content?id=rzlJCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "name": "Book7",
+    "year": 2021,
+    "image": "http://books.google.com/books/content?id=-jAxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "name": "Book8",
+    "year": 2001,
+    "image": "http://books.google.com/books/content?id=yUq-227gR3sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "name": "Book9",
+    "year": 2003,
+    "image": "http://books.google.com/books/content?id=AzlwEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "name": "Book10",
+    "year": 2017,
+    "image": "http://books.google.com/books/content?id=-utNDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  }
+]
